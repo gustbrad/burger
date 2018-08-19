@@ -1,0 +1,26 @@
+body{
+    background-color: blue;
+    color: yellow;
+}
+.available{
+    border-color: red;
+}
+.jumbotron {
+    background-color: white;
+}
+.top{
+    text-align: center;
+}
+.btn-danger{
+    color: yellow;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.addBurger{
+    background-color: red;
+    color: yellow;
+}
+li {
+    list-style: none;
+  }
